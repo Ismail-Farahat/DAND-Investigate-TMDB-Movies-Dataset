@@ -7,7 +7,7 @@ This dataset (TMDB Movies) represents information about films over the history. 
 This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.  
 ● There are some odd characters in the ‘cast’ column.  
 ● The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over  
-# columns in the data
+# Columns in the data
 id  
 imdb_id  
 popularity  
